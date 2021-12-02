@@ -1,0 +1,22 @@
+{
+  "singleQuote": true,
+  "arrow-body-style": "on",
+  "prefer-arrow-callback": "off",
+  "printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": "*.component.html",
+      "options": {
+        "parser": "angular"
+      }
+    }
+  ]
+}

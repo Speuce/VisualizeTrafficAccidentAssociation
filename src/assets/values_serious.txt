@@ -1,0 +1,45 @@
+age_band_of_casualty:26 - 35
+age_band_of_casualty:Adult
+age_band_of_casualty:Senior
+age_band_of_casualty:Youth
+age_band_of_driver:26 - 35
+age_band_of_driver:36 - 45
+age_band_of_driver:Adult
+age_band_of_driver:Senior
+age_band_of_driver:Youth
+age_of_vehicle:10-19
+age_of_vehicle:<3
+age_of_vehicle:≤5
+age_of_vehicle:≤7
+age_of_vehicle:≤9
+casualty_severity:Serious
+casualty_severity:Slight
+casualty_type:Car occupant
+casualty_type:Car/Taxi Occupant
+casualty_type:Motorcycle Occupant
+casualty_type:Pedestrian
+casualty_type:Sidewalk User
+day_of_week:Friday
+day_of_week:Saturday
+driver_home_area_type:Urban area
+first_point_of_impact:Front
+junction_control:Give way or uncontrolled
+junction_detail:T or staggered junction
+junction_location:Approaching junction or waiting/parked at junction approach
+junction_location:Mid Junction - on roundabout or on main road
+light_conditions:Darkness - lights lit
+light_conditions:Daylight
+road_surface_conditions:Wet or damp
+road_type:Single carriageway
+sex_of_casualty:Female
+sex_of_casualty:Male
+sex_of_driver:Female
+sex_of_driver:Male
+speed_limit:30
+speed_limit:60
+time:afternoon
+time:afternoon rush
+time:evening
+urban_or_rural_area:Rural
+urban_or_rural_area:Urban
+vehicle_manoeuvre:Going ahead other
